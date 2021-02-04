@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 
 const Articles = () => <h1>Articles</h1>;
 
