@@ -19,10 +19,11 @@
     "node-sass": "^5.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "tailwindcss": "^2.0.2"
+    
   },
   "devDependencies": {
-    "prettier": "2.2.1"
+    "prettier": "2.2.1",
+    "tailwindcss": "^2.0.2"
   },
   "repository": {
     "type": "git",
